@@ -47,12 +47,3 @@ This project is a full-stack Netflix clone that displays movie details from The 
 6. **User Authentication**: Implement login and registration using Firebase.
 7. **Loading Animation**: Add a loading animation on the login page.
 8. **Responsive Design**: Make the website responsive for different devices.
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/your-feature`)
-3. Commit your changes (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature/your-feature`)
-5. Create a new Pull Request
