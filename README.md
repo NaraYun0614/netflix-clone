@@ -14,6 +14,8 @@ This project is a full-stack Netflix clone that displays movie details from The 
 
 ## Setup and Installation
 
+To set up and run this project locally, follow these steps:
+
 1. **Clone the repository:**
 
     ```sh
